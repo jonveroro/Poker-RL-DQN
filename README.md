@@ -4,9 +4,9 @@ Implementation of Deep Reinforcement Learning on the game poker
 
 ### Prerequisites
 
-Pypokerengine
-Keras
-Tensorflow
+* Pypokerengine
+* Keras
+* Tensorflow
 
 
 ## Observation
@@ -22,11 +22,6 @@ Add additional notes about how to deploy this on a live system
 
 * [Pypokerengine]https://github.com/ishikota/PyPokerEngine - Environment
 * [Keras](https://github.com/keras-team/keras) - Deep Learning Framework 
-
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
